@@ -4,6 +4,8 @@
 
 This analysis focuses on income inequailty as measured by the Gini Index* and its association with economic metrics such as GDP per capita, investments as a % of GDP, and tax revenue as a % of GDP. One polical metric, EIU democracy index, is also included.
 
+![image](https://github.com/rahul13289/GlobalWealthInvestmentWithPredictionOfEquality/assets/97829880/46d5e0c2-13cd-43f0-b5fa-ea75fcd63079)
+
 This investigation can be considered a starting point for complex questions such as:
 
 1. Is a higher tax revenue as a % of GDP associated with less income inequality?
